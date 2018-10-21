@@ -6,7 +6,9 @@ with your time than to write meaningless ASCII animation programs?
 
 Now you can have the best of both worlds: introducing ``fish``, the module that
 makes any program look awesome and display useful data while churning away on
-some good 'ole data.
+some good 'ole data. 
+
+Insert change to file here to practice with git on: YAY! 
 
 Usage? Simple enough:
     
